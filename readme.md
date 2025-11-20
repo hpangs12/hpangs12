@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Henry Roy  
+# 👋 Hi, I'm Henry Pangsatabam
 ### Backend Developer | Java & Spring Boot | Microservices
 
 I enjoy building clean, scalable backend systems and exploring distributed architectures.
