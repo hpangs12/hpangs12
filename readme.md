@@ -21,12 +21,12 @@ A multi-service backend with:
 - Order, Payment, User, Product Services  
 - Kafka-based communication  
 - Eureka discovery & centralized configs
-- 
+  
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henry-roy&theme=nightowl" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hpangs12&show_icons=true&theme=nightowl" />
 </p>
 
 ---
