@@ -15,19 +15,19 @@ I enjoy building clean, scalable backend systems and exploring distributed archi
 
 ## 🚀 Projects
 
-### **E-Commerce Fullstack Project**
+### 🛍️ [**E-Commerce Fullstack Project**](https://github.com/hpangs12/Ecommerce_Application)
 A multi-service backend with a React FrontEnd with the following features:
-- API Gateway  
-- Order, Payment, User, Product Services  
-- Kafka-based communication  
-- Eureka discovery & centralized configs
+  - API Gateway  
+  - Order, Payment, User, Product Services  
+  - Kafka-based communication  
+  - Eureka discovery & centralized configs
   
-#### Planned Updates:
-- Implement Admin Pages.
-- Replace the dummy implementation for the checkout feature.
-- Perform Front-End code cleanup and possibly a design revamp.
-- Implement the security feature for the front end and the API gateway.<br>
-Note: Only security we have is the service methods querying the UserMS to validate the token for operations that require authentication.
+Planned Updates:
+  - Implement Admin Pages.
+  - Replace the dummy implementation for the checkout feature.
+  - Perform Front-End code cleanup and possibly a design revamp.
+  - Implement the security feature for the front end and the API gateway.<br>
+  Note: Only security we have is the service methods querying the UserMS to validate the token for operations that require authentication.
   
 ---
 
