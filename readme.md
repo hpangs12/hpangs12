@@ -12,6 +12,12 @@ I enjoy building clean, scalable backend systems and exploring distributed archi
 - **Frameworks:** Spring Boot, Spring Security, Spring Cloud, Node.js
 - **API Design:** REST, GraphQL, OpenAPI/Swagger
 
+### 🤖 **AI & Machine Learning**
+- **Frameworks:** LangChain, LangGraph
+- **AI Patterns:** Agentic AI, RAG (Retrieval-Augmented Generation)
+- **LLM Integration:** MCP (Model Context Protocol), Function Calling, Tool Use, A2A (Agent-to-Agent)
+- **Use Cases:** Code Agents, Autonomous Workflows, Multi-Agent Systems
+
 ### 🏗️ **Architecture & Design**
 - Microservices Architecture
 - Event-Driven Design
