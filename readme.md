@@ -27,7 +27,6 @@ Planned Updates:
   - Replace the dummy implementation for the checkout feature.
   - Perform Front-End code cleanup and possibly a design revamp.
   - Implement the security feature for the front end and the API gateway.<br>
-  Note: Only security we have is the service methods querying the UserMS to validate the token for operations that require authentication.
   
 ---
 
