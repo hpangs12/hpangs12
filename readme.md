@@ -5,11 +5,52 @@ I enjoy building clean, scalable backend systems and exploring distributed archi
 
 ---
 
-## ⚙️ Skills
-- **Backend:** Java, Spring Boot, Spring Security, Spring Cloud  
-- **Architecture:** Microservices, REST APIs, Event-Driven Design  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Tools:** Docker, GitHub Actions, Kafka, Postman  
+## ⚙️ Technical Skills
+
+### 🖥️ **Languages & Backend**
+- **Languages:** Java, JavaScript, Python, SQL
+- **Frameworks:** Spring Boot, Spring Security, Spring Cloud, Node.js
+- **API Design:** REST, GraphQL, OpenAPI/Swagger
+
+### 🏗️ **Architecture & Design**
+- Microservices Architecture
+- Event-Driven Design
+- API Gateway Pattern
+- Service Discovery (Eureka)
+- Distributed Tracing
+
+### 🗄️ **Databases & Caching**
+- **Relational:** MySQL, PostgreSQL
+- **NoSQL:** MongoDB
+- **Cache:** Redis | Caffeine
+
+### 📡 **Messaging & Streaming**
+- Apache Kafka
+- RabbitMQ
+- AWS SQS/SNS
+
+### 📊 **Monitoring & Logging**
+- Splunk
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- Prometheus & Grafana
+- Spring Boot Actuator
+
+### 🛠️ **DevOps & Cloud**
+- **Containerization:** Docker, Kubernetes
+- **CI/CD:** Jenkins
+- **Cloud:** AWS (EC2, S3, RDS, Lambda)
+- **Testing:** Postman, JUnit, TestNG, Mockito
+
+### 🎨 **Frontend**
+- React.js
+- HTML5, CSS3, JavaScript (ES6+)
+- Responsive Design
+
+### 🔒 **Security**
+- JWT Authentication
+- OAuth 2.0
+- Spring Security
+- HTTPS/SSL
 
 ---
 
