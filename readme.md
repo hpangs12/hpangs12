@@ -114,7 +114,7 @@ An AI analysis based game recommendation engine with the following features:
 ---
 
 ## 🌱 Currently Learning
-Distributed systems • JVM performance • System design
+DSA • System design • Agentic AI • Devops
 
 ---
 
