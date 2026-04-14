@@ -103,14 +103,7 @@ An AI analysis based game recommendation engine with the following features:
 - Implement hybrid recommendation model for better accuracy
 - Add real-time recommendation updates based on user behavior
 - Integrate with Steam/EPIC APIs for live game data
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hpangs12&show_icons=true&theme=nightowl" />
-</p>
-
+  
 ---
 
 ## 🌱 Currently Learning
