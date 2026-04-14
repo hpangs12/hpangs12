@@ -33,7 +33,6 @@ I enjoy building clean, scalable backend systems and exploring distributed archi
 ### 📡 **Messaging & Streaming**
 - Apache Kafka
 - RabbitMQ
-- AWS SQS/SNS
 
 ### 📊 **Monitoring & Logging**
 - Splunk
@@ -94,8 +93,7 @@ An intelligent AI-powered coding assistant with the following features:
 ---
 
 ### 🎮 [**Game Recommender System**](https://github.com/hpangs12/game-recommender)
-A machine learning powered game recommendation engine with the following features:
-- Collaborative Filtering Algorithm
+An AI analysis based game recommendation engine with the following features:
 - Content-Based Recommendation Engine
 - User Preference Profiling & Analytics
 - RESTful API for Recommendations
@@ -105,7 +103,6 @@ A machine learning powered game recommendation engine with the following feature
 - Implement hybrid recommendation model for better accuracy
 - Add real-time recommendation updates based on user behavior
 - Integrate with Steam/EPIC APIs for live game data
-- Deploy scalable microservices architecture with caching
 
 ---
 
